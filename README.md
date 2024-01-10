@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Jahovry! Computer Science Major </h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+-
+
+- <b>Data Structures and Algorithms Practice </b>
+  - [Praciting DS & Algos in Python]()
+
+
 
 <!--
-**Jahvory/jahvory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
